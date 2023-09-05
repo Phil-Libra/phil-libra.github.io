@@ -12,6 +12,6 @@
 
 ## 代码展示
 
-[易车金港圈速榜（停止更新）](https://phil-libra.github.io/kbracer-goldenport)
+[新金港圈速榜](https://phil-libra.github.io/kbracer-goldenport)
 
 [好客租房 Hook 源代码](https://github.com/Phil-Libra/HKZF_hook)
