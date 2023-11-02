@@ -2,7 +2,7 @@
 
 ## 工具
 
-[圈速榜技术展示](https://phil-libra.github.io/kbracer-gp-next)
+[新金港圈速榜](https://phil-libra.github.io/kbracer-goldenport)
 
 [Excel to JSON 工具](https://phil-libra.github.io/excel-to-json)
 
@@ -12,6 +12,6 @@
 
 ## 代码展示
 
-[新金港圈速榜](https://phil-libra.github.io/kbracer-goldenport)
+[圈速榜技术展示](https://phil-libra.github.io/kbracer-gp-next)
 
 [好客租房 Hook 源代码](https://github.com/Phil-Libra/HKZF_hook)
