@@ -12,6 +12,4 @@
 
 ## 代码展示
 
-[圈速榜技术展示](https://phil-libra.github.io/kbracer-gp-next)
-
 [好客租房 Hook 源代码](https://github.com/Phil-Libra/HKZF_hook)
